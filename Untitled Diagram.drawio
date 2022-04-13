@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T12:46:03.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="g6fGDvRMPKacQiUzy1vy" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T12:48:02.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="IQ0PcbLQnK9mkIhgt02Z" version="16.2.7" type="github">
   <diagram id="4HuPe2wkKWoafJd6I38D" name="Page-1">
     <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,7 +152,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BDgFzo-27jHGyNLlyKpH-3" value="Terraform" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="11.02" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="11.02" y="230" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BDgFzo-27jHGyNLlyKpH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BDgFzo-27jHGyNLlyKpH-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="41" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDgFzo-27jHGyNLlyKpH-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-1-1/50/group-customers-team-contacts-family-128.png" vertex="1" parent="1">
+          <mxGeometry x="15.02" y="110" width="52" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
